@@ -15,6 +15,12 @@ Durante o cutover, tanto o sistema antigo quanto o novo ficam inacessíveis, o q
 
 ## 2. Plano de Cutover Microsoft Dynamics 365
 
+<div align="center">
+<sub>Plano de Cutover Microsoft Dynamics 365</sub>
+<img src="../assets/prep-golive-cutover-plan.png" width="100%" >
+<sup>Microsoft Dynamics 365</sup>
+</div>
+
 ### 2.1 O plano de Cutover apresentado pela Microsoft Dynamics 365 contém vários elementos que refletem a organização e o controle do processo de transição do ambiente de configuração para a produção. Cada linha corresponde a uma etapa do processo, detalhando as atividades essenciais para garantir que o sistema esteja pronto para o go-live. Aqui estão os principais componentes presentes na tabela:
 
 ### 2.2 Cutover Step (Etapa do Cutover): Identifica as tarefas que precisam ser realizadas, como a instalação de customizações, validação de configurações, execução de políticas de compartilhamento de dados, entre outras. Cada etapa é numerada para garantir a sequência correta das atividades.
