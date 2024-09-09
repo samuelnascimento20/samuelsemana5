@@ -2,7 +2,7 @@
 
 ## Sumário 
 
-### 1. O que é um Plano de C?
+### 1. O que é um Plano de Cutover?
 ### 2. Plano de Cutover Microsoft Dynamics 365 e Seus Elementos
 ### 3. Pontos Postivos
 ### 4. Pontos Negativos
